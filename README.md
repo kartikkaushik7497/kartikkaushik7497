@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-<p align="left"> <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="kartikkaushik7497" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkaushik7497&label=Profile%20views&color=0e75b6&style=flat" alt="kartikkaushik7497" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kartikkaushik74" target="blank"><img src="https://img.shields.io/twitter/follow/kartikkaushik74?logo=twitter&style=for-the-badge" alt="kartikkaushik74" /></a> </p>
 
